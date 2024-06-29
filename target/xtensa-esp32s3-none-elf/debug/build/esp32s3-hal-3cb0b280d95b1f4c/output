@@ -1,0 +1,2 @@
+cargo:rustc-link-search=/home/saad__irfan/esp/rust-esp/esp32blink/target/xtensa-esp32s3-none-elf/debug/build/esp32s3-hal-3cb0b280d95b1f4c/out
+cargo:rerun-if-changed=ld/memory.x

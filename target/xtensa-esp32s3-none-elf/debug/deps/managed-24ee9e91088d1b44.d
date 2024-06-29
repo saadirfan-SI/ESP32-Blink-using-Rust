@@ -1,0 +1,11 @@
+/home/saad__irfan/esp/rust-esp/esp32blink/target/xtensa-esp32s3-none-elf/debug/deps/libmanaged-24ee9e91088d1b44.rmeta: /home/saad__irfan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/managed-0.8.0/src/lib.rs /home/saad__irfan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/managed-0.8.0/src/object.rs /home/saad__irfan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/managed-0.8.0/src/slice.rs /home/saad__irfan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/managed-0.8.0/src/slotmap.rs /home/saad__irfan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/managed-0.8.0/src/map.rs
+
+/home/saad__irfan/esp/rust-esp/esp32blink/target/xtensa-esp32s3-none-elf/debug/deps/libmanaged-24ee9e91088d1b44.rlib: /home/saad__irfan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/managed-0.8.0/src/lib.rs /home/saad__irfan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/managed-0.8.0/src/object.rs /home/saad__irfan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/managed-0.8.0/src/slice.rs /home/saad__irfan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/managed-0.8.0/src/slotmap.rs /home/saad__irfan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/managed-0.8.0/src/map.rs
+
+/home/saad__irfan/esp/rust-esp/esp32blink/target/xtensa-esp32s3-none-elf/debug/deps/managed-24ee9e91088d1b44.d: /home/saad__irfan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/managed-0.8.0/src/lib.rs /home/saad__irfan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/managed-0.8.0/src/object.rs /home/saad__irfan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/managed-0.8.0/src/slice.rs /home/saad__irfan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/managed-0.8.0/src/slotmap.rs /home/saad__irfan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/managed-0.8.0/src/map.rs
+
+/home/saad__irfan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/managed-0.8.0/src/lib.rs:
+/home/saad__irfan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/managed-0.8.0/src/object.rs:
+/home/saad__irfan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/managed-0.8.0/src/slice.rs:
+/home/saad__irfan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/managed-0.8.0/src/slotmap.rs:
+/home/saad__irfan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/managed-0.8.0/src/map.rs:

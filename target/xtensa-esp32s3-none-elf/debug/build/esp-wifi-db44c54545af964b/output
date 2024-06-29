@@ -1,0 +1,4 @@
+cargo:warning=esp-wifi should be built with optimization level 2 or 3 - yours is 0.
+                    See https://github.com/esp-rs/esp-wifi
+cargo:rustc-cfg=esp32s3
+cargo:rustc-cfg=xtensa_has_vaarg
